@@ -1,0 +1,5 @@
+localRepository 내 컴퓨터
+remoteRepository 깃허브
+
+
+git clone 저장소링크  -  다운로드
